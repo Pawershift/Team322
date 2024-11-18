@@ -1,1 +1,1 @@
-a = input() if a == "Andrey" print("3222")
+a = input() if a == "Andrey" print("3222222")
